@@ -17,7 +17,7 @@ This project focuses on **data visualization** using Python libraries such as `M
 - Build **data storytelling** that can explain insights from the data and propose strategies to reduce customer churn.
 
 ## Dataset
-The dataset contains customer information including churn status, tenure, total charges, and city of residence. You can find the dataset in the `/notebooks` folder or [[download it here](https://drive.google.com/file/d/1USXIWFIaDMng66CKFDjdMZemJlP4C9LD/view?usp=drive_link)](#data).
+The dataset contains customer information including churn status, tenure, total charges, and city of residence. You can find the dataset in the `/notebooks` folder or [download it here](https://drive.google.com/file/d/1USXIWFIaDMng66CKFDjdMZemJlP4C9LD/view?usp=drive_link)](#data).
 
 ## Visualizations and Insights
 
