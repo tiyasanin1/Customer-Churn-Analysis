@@ -1,4 +1,10 @@
 # Hands-On Data Science Project: Data Visualization in Python
+## Table of Contents
+- [Project Overview](#Overview)
+- [Objectives](#Objectives)
+- [Dataset](#Dataset)
+- [Requirements](#requirements)
+- [Insights and Recommendations](#Insights-and-Recommendations)
 
 ## Overview
 
@@ -57,3 +63,10 @@ The dataset contains customer information including churn status, tenure, total 
 3. **City-specific Strategies**:
     - **Los Angeles** and **San Diego** should be the focus of churn reduction strategies, such as targeted offers or improved services, as they have the highest churn rates.
     - At the same time, efforts should be made to retain the large non-churned customer base in these cities.
+
+## Requirements
+To run this project, the following Python libraries are required:
+
+- `pandas`
+- `matplotlib`
+- `seaborn
