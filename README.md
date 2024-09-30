@@ -39,6 +39,13 @@ The dataset contains customer information including churn status, tenure, total 
 - Cities like **Los Angeles** and **San Diego** not only have high churn rates, but they also have the highest number of **non-churned customers**. 
 - Understanding the factors that keep these customers loyal can help reduce churn in these cities.
 
+### 5. Persebaran Tenure Months Berdasarkan Churn Label
+![Tenure Distribution](./images/tenure_distribution.png)
+
+- **Churned customers tend to have shorter tenures**. Most churned customers leave the company within the **first 10 months** of their subscription.
+- **Non-churned customers have a more evenly distributed tenure** cross the entire time range, with peaks in both the early and later months. This indicates that loyal customers either stay for a long period or decide to leave after a significantly extended period.
+- **Onboarding and retention strategies** are crucial during the first 10 months, as this is the period where churn is most frequent.
+
 ## Insights and Recommendations
 
 1. **Onboarding and Early Retention**:
