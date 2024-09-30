@@ -19,7 +19,6 @@ This project focuses on **data visualization** using Python libraries such as `M
 ## Dataset
 The dataset contains customer information including churn status, tenure, total charges, and city of residence. You can find the dataset in the `/notebooks` folder or [here](https://drive.google.com/file/d/1USXIWFIaDMng66CKFDjdMZemJlP4C9LD/view?usp=drive_link).
 
-### Key Features:
 
 ## Visualizations and Insights
 
